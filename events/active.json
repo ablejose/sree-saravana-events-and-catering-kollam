@@ -1,0 +1,58 @@
+{
+  "slug": "sree-saravana-events-and-catering-kollam",
+  "name": "Sree Saravana Events and Catering",
+  "shortName": "Sree Saravana",
+  "descriptor": "Catering & Events",
+  "address": "Sree Saravana Events, Thattamala, Mylapure, Palathara, Kollam, Keralam 691020",
+  "area": "Palathara",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691020",
+  "geo": {
+    "lat": 8.871755499999999,
+    "lng": 76.6390251
+  },
+  "mapsLink": "https://maps.google.com/?cid=10350794137179695576",
+  "phone": "+91 79079 27019",
+  "whatsapp": "917907927019",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "name": "mintukrishnan s",
+      "rating": 5,
+      "quote": "The catering and event management team exceeded our expectations with their friendly service, creating a warm and inviting atmosphere. The food they served was not only delicious, making our event truly memorable."
+    },
+    {
+      "name": "Vishnu M",
+      "rating": 5,
+      "quote": "Great food, On time and professional service. Much recommended"
+    },
+    {
+      "name": "My Ride My Life",
+      "rating": 5,
+      "quote": "Awesome work, polite attitude , gud quality food etc are speciality of Saravana so i strongly recommend Saravana events🥰🥰👍"
+    },
+    {
+      "name": "Lalithakumari Lalitha",
+      "rating": 5,
+      "quote": "Excellent service and tasty food service all over professionally highly recommended 👌"
+    },
+    {
+      "name": "Harahut Creative Space",
+      "rating": 5,
+      "quote": "Exceptional service, exquisite food, flawless execution. The best event and catering , in Kerala. Recommended*"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://sree-saravana-events-and-catering-k.vercel.app"
+}
